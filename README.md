@@ -1,4 +1,4 @@
-# 🕵️‍♀️ Multi agentic collaboration for financial analysis 🕵️‍♀️
+# 🕵️‍♀️ Multi agentic collaboration for hedge fund analysis 🕵️‍♀️
 
 This project presents a proof of concept for testing how agent workflows can be used to make trading decisions. It explores how several agents can work together:
 
