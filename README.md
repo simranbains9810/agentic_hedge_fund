@@ -3,7 +3,6 @@
 This project presents a proof of concept for testing how agent workflows can be used to make trading decisions. It explores how several agents can work together:
 
 Market Data Analyst - Gathers and preprocesses market data
-
 Valuation Agent - Calculates the intrinsic value of a stock and generates trading signals
 
 Sentiment Agent - Analyzes market sentiment and generates trading signals
@@ -30,4 +29,4 @@ The code is written using Python 3.12 and requires the following packages to be 
 - `matplotlib`
 - `seaborn`
 
-## **Disclaimer: This project is a proof of concept and does not reflect real trading or investment decisions.
+## **Disclaimer: This project is a proof of concept and does not reflect real trading or investment decisions**
